@@ -1,12 +1,9 @@
-function showStars(numberOf) {
-    i = 0
-    numberOfStars = 1
-    while(i < numberOf) {
-        while(numberOfStars < numberOf) {
-            console.log("*")
-            numberOfStars++
-        }
-    }
+function showStars(linhas) {      
+    let padrao = '';
+    for(let linha = 1; linha <= linhas; linha++ ) {
+        padrao += "*";
+        console.log(padrao)
+       }
 }
 
 showStars(10)
