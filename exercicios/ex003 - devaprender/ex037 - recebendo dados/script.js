@@ -1,0 +1,1 @@
+var cor = prompt('Olá, qual é sua cor preferida?');
