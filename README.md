@@ -15,5 +15,6 @@ Caso tenha te interessado, aqui estão os links que eu já usei e alguns que eu 
 https://youtu.be/i6Oi-YtXnAU
 ## Node.JS
 https://youtu.be/IOfDoyP1Aq0
-
+## Typescript
+https://youtu.be/ppDsxbUNtNQ
 
