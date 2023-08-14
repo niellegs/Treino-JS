@@ -12,6 +12,7 @@ As tecnologias que ue estudo aqui são
 Caso tenha te interessado, aqui estão os links que eu já usei e alguns que eu ainda uso nessa jornada:
 
 ## JS
+https://youtu.be/i6Oi-YtXnAU
 ## Node.JS
 https://youtu.be/IOfDoyP1Aq0
 
