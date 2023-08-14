@@ -1,4 +1,4 @@
-const { Person } = require("./modules/person")
+//const { Person } = require("./modules/person")
 
 /*const person = new Person("Felipe")
 console.log(person.sayMyName())*/
@@ -15,3 +15,10 @@ console.log(path.join(__dirname, "test"))*/
 
 //http
 //require("./modules/http")
+
+require("./modules/express")
+const dotenv = require("dotenv");
+const conectToDatabase = require("./src/database/conect")
+
+dotenv.config()
+conectToDatabase() 
