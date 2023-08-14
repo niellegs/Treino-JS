@@ -12,9 +12,14 @@ As tecnologias que ue estudo aqui são
 Caso tenha te interessado, aqui estão os links que eu já usei e alguns que eu ainda uso nessa jornada:
 
 ## JS
+Curso em vídeo - Javascript
+https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm
+Dev Aprender - Javascript
 https://youtu.be/i6Oi-YtXnAU
 ## Node.JS
+Felipe Rocha | Dicas para devs - Node.js
 https://youtu.be/IOfDoyP1Aq0
 ## Typescript
+Felipe Rocha | Dicas para devs - Typescript
 https://youtu.be/ppDsxbUNtNQ
 
