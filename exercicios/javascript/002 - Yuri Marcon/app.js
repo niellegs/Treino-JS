@@ -1,8 +1,12 @@
-const express = require("express");
+import { openDB } from './src/configDB';
+import express from 'express';
+
 const app = express();
 const port = 3000;
 // para visualizar o conteúdo da request "express.json()"
 app.use(express.json());
+
+openDB();
 
 app.get("/",  (req, res) => {
     res.send("Olá mundo")
