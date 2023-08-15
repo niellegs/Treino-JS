@@ -23,6 +23,10 @@ https://youtu.be/i6Oi-YtXnAU
 Felipe Rocha | Dicas para devs - Node.js
 <br>
 https://youtu.be/IOfDoyP1Aq0
+<br>
+Yuri Marcon - Node js + express + Sqlite
+<br>
+https://youtu.be/yEpiT-N2DUc
 ## Typescript
 Felipe Rocha | Dicas para devs - Typescript
 <br>
