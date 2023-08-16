@@ -1,22 +1,12 @@
-import { openDB } from './src/configDB';
+import { openDB } from './src/configDB.js';
 import express from 'express';
+import { createTable, deletePessoa, insertPessoa, updatePessoa} from './src/controler/Pessoa.js'
+import router from './src/routes.js';
 
 const app = express();
 const port = 3000;
 // para visualizar o conteúdo da request "express.json()"
 app.use(express.json());
-
-openDB();
-
-app.get("/",  (req, res) => {
-    res.send("Olá mundo")
-})
-
-app.post("/pessoa", (req, res) => {
-    console.log(req.body)
-    res.json({
-        "statusCode": 200
-    })
-});
+app.use(router);
 
 app.listen(port, () => console.log("API rodando"))
